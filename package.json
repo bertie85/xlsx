@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "mongodb": "^3.6.6",
+    "node-xlsx": "^0.16.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "ebedlista",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "bertoldszekeres",
+  "license": "ISC"
+}
